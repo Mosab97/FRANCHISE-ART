@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34.34" height="17.34" viewBox="0 0 34.34 17.34">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="crop" d="M0 0H34.34V17.34H0z" class="cls-1"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Path_14" d="M.118.319h9.82v16.962H4.892V4.55H.118z" class="cls-1"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <path id="Path_15" d="M34.118 17.281h-9.859V.319h5.085V13.05h4.774z" class="cls-1"/>
+        </clipPath>
+        <clipPath id="clip-path-4">
+            <path id="Path_16" d="M15.177 12.352a5.369 5.369 0 0 1-1.941-.777 6.3 6.3 0 0 1-1.475-1.4 7.374 7.374 0 0 1-.932-1.825 6.133 6.133 0 0 1-.349-2.018 6 6 0 0 1 .5-2.678 6.273 6.273 0 0 1 1.126-1.63 5.925 5.925 0 0 1 2.6-1.552A7.519 7.519 0 0 1 15.993.2c.388-.039.737-.078 1.048-.078a6.718 6.718 0 0 1 2.677.5 5.945 5.945 0 0 1 2.057 1.436 5.833 5.833 0 0 1 1.32 2.1 6.935 6.935 0 0 1 .465 2.523 8.008 8.008 0 0 1-.5 2.716 16.035 16.035 0 0 1-1.32 2.562c-.543.815-1.125 1.669-1.746 2.445l-1.863 2.446a1.061 1.061 0 0 1-.388.31 1.312 1.312 0 0 1-.466.155h-4.58c-.155 0-.272-.039-.31-.155a.261.261 0 0 1 .078-.31l2.95-4.037a.4.4 0 0 0 .078-.349c-.079 0-.156-.077-.311-.116" class="cls-1"/>
+        </clipPath>
+        <clipPath id="clip-path-5">
+            <path id="Path_17" d="M17.118 4.627a1.7 1.7 0 0 1 1.708 1.708 1.708 1.708 0 1 1-1.708-1.708" class="cls-1"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:none}
+        </style>
+    </defs>
+    <g id="Vector_Smart_Object" clip-path="url(#clip-path)">
+        <g id="Group_18">
+            <g id="Group_17" clip-path="url(#clip-path-2)">
+                <path id="Rectangle_19" d="M0 0H13.22V20.361H0z" transform="translate(-1.582 -1.381)"/>
+            </g>
+        </g>
+        <g id="Group_20">
+            <g id="Group_19" clip-path="url(#clip-path-3)">
+                <path id="Rectangle_20" d="M0 0H13.259V20.361H0z" transform="translate(22.559 -1.381)"/>
+            </g>
+        </g>
+        <g id="Group_22">
+            <g id="Group_21" clip-path="url(#clip-path-4)">
+                <path id="Rectangle_21" d="M0 0H16.48V20.594H0z" transform="translate(8.781 -1.575)"/>
+            </g>
+        </g>
+        <g id="Group_24">
+            <g id="Group_23" clip-path="url(#clip-path-5)">
+                <path id="Rectangle_22" fill="#ffd231" d="M0 0H6.816V6.815H0z" transform="translate(13.71 2.927)"/>
+            </g>
+        </g>
+    </g>
+</svg>
